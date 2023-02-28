@@ -1,0 +1,6 @@
+{'id': '1001', 'name': '1', 'English': '1', 'Python': '1', 'Java': '1'}
+{'id': '1002', 'name': '2', 'English': 2, 'Python': 2, 'Java': 2}
+{'id': '1003', 'name': '2', 'English': 2, 'Python': 2, 'Java': 2}
+{'id': '1004', 'name': '2', 'English': 3, 'Python': 5, 'Java': 6}
+{'id': '1008', 'name': '1', 'English': 2, 'Python': 3, 'Java': 4}
+{'id': '1009', 'name': 'hu', 'English': 89, 'Python': 90, 'Java': 78}
